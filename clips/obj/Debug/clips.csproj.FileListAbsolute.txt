@@ -1,1 +1,15 @@
 C:\Users\Agnieszka\Desktop\studia\GIT\clips\clips\clips\bin\Debug\clips.exe.config
+C:\Users\Agnieszka\Desktop\studia\GIT\clips\clips\clips\bin\Debug\clips.exe
+C:\Users\Agnieszka\Desktop\studia\GIT\clips\clips\clips\bin\Debug\clips.pdb
+C:\Users\Agnieszka\Desktop\studia\GIT\clips\clips\clips\bin\Debug\Mommosoft.ExpertSystem.dll
+C:\Users\Agnieszka\Desktop\studia\GIT\clips\clips\clips\obj\Debug\clips.csprojResolveAssemblyReference.cache
+C:\Users\Agnieszka\Desktop\studia\GIT\clips\clips\clips\obj\Debug\MainWindow.g.cs
+C:\Users\Agnieszka\Desktop\studia\GIT\clips\clips\clips\obj\Debug\App.g.cs
+C:\Users\Agnieszka\Desktop\studia\GIT\clips\clips\clips\obj\Debug\clips_MarkupCompile.cache
+C:\Users\Agnieszka\Desktop\studia\GIT\clips\clips\clips\obj\Debug\clips_MarkupCompile.lref
+C:\Users\Agnieszka\Desktop\studia\GIT\clips\clips\clips\obj\Debug\MainWindow.baml
+C:\Users\Agnieszka\Desktop\studia\GIT\clips\clips\clips\obj\Debug\clips.g.resources
+C:\Users\Agnieszka\Desktop\studia\GIT\clips\clips\clips\obj\Debug\clips.Properties.Resources.resources
+C:\Users\Agnieszka\Desktop\studia\GIT\clips\clips\clips\obj\Debug\clips.csproj.GenerateResource.Cache
+C:\Users\Agnieszka\Desktop\studia\GIT\clips\clips\clips\obj\Debug\clips.exe
+C:\Users\Agnieszka\Desktop\studia\GIT\clips\clips\clips\obj\Debug\clips.pdb

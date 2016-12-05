@@ -5,8 +5,20 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:clips"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+ Title="Piwo" Height="200" Width="350" Loaded="OnLoad" ResizeMode="CanMinimize">
     <Grid>
-        
+        <Grid x:Name="autoGrid" Margin="0" RenderTransformOrigin="0.441,0.401">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="4*"/>
+                <RowDefinition Height="3*"/>
+            </Grid.RowDefinitions>
+            <StackPanel x:Name="buttonsPanel" HorizontalAlignment="Center" Margin="0" Grid.Row="2" VerticalAlignment="Center" Orientation="Horizontal">
+                <Button x:Name="nextButton" Content="Next &gt;" Margin="10,0" Padding="5,1" Click="OnClickButton"/>
+            </StackPanel>
+            <StackPanel x:Name="choicesPanel" HorizontalAlignment="Center" Margin="0" Grid.Row="1" VerticalAlignment="Center" RenderTransformOrigin="-0.282,0.453" Orientation="Horizontal"/>
+            <TextBox x:Name="messageTextBox" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" BorderThickness="0" IsReadOnly="True" Padding="0"/>
+        </Grid>
+
     </Grid>
 </Window>
